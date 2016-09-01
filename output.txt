@@ -1,0 +1,16 @@
+Request {
+    "headers": [
+        {
+            "name": "User-Agent",
+            "value": "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34"
+        },
+        {
+            "name": "Accept",
+            "value": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+        }
+    ],
+    "id": 1,
+    "method": "GET",
+    "time": "2016-09-01T11:41:17.141Z",
+    "url": "http://www.google.com/"
+}
